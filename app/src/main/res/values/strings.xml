@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Cinemate</string>
+    <string name="search">Cari film yang ingin anda saksikan</string>
+    <string name="back">Kembali</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_profile">Profile</string>
+    <string name="profile">PROFILE</string>
+    <string name="profile_email">Email</string>
+    <string name="profile_kampus">Universitas</string>
+    <string name="profile_path">Learning path</string>
+    <string name="profile_program">Program</string>
+    <string name="name">Rifaldlee</string>
+    <string name="email">rifaldlee26@gmail.com</string>
+    <string name="kampus">Politeknik Negeri Jakarta</string>
+    <string name="path">Android Developer</string>
+    <string name="program">Bangkit Academy 2023</string>
+    <string name="rating">/10</string>
+    <string name="duration">Durasi</string>
+    <string name="release">Tahun</string>
+    <string name="country">Negara</string>
+
+</resources>
